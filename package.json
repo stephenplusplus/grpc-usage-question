@@ -12,6 +12,6 @@
   "dependencies": {
     "google-auto-auth": "^0.2.4",
     "google-proto-files": "^0.1.1",
-    "grpc": "^0.13.2-pre1"
+    "grpc": "^0.14.1"
   }
 }
